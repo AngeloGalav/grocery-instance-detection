@@ -6,8 +6,11 @@ Both a Single Instance Detection and a Multiple Instance Detection system were d
 This project DOES NOT make use of any deep learning technique, relying instead on the instance detection methods provided by OpenCV.
 
 <p align="center">
-  <img src="res/image2.png" height="350">
-  <img src="res/image.png" height="350">
+  <img src="res/image2.png" width="450">
 </p>
+<p align="center">
+  <img src="res/image.png" width="450">
+</p>
+
 
 This was also the first assignment for the Image Processing and Computer Vision A.Y. 2023/2024.
