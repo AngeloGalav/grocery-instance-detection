@@ -13,4 +13,4 @@ This project DOES NOT make use of any deep learning technique, relying instead o
 </p>
 
 
-This was also the first assignment for the Image Processing and Computer Vision A.Y. 2023/2024.
+This was also the first assignment for the Image Processing and Computer Vision A.Y. 2023/2024. To access the second assignment, which instead leverages CNNs and Deep Learning to classify groceries, [click here](https://github.com/AngeloGalav/grocery-image-classification).
